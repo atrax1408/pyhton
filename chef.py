@@ -20,5 +20,5 @@ for i in range(t):
 	test.append(demo_test)
 	demo_test = ""
 for i in range(t):
-	p(test[i])
+	p(test)
 
